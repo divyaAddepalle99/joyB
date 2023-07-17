@@ -42,7 +42,7 @@ struct ContentView: View {
             .shadow(radius: 15)
 //            .padding()
             .buttonStyle(.borderedProminent)
-            .tint(.black)
+            .tint(.blue)
         }
         
        
